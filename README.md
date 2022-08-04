@@ -11,4 +11,5 @@
 | 2022-08-01 | [Swift Closure & Optional](https://thirsty-burn-48e.notion.site/Swift-Closure-Optional-9be4ff1dc3154ad0847eff86f39b6e0f) | __`Swift`__    |
 | 2022-08-01 | [Protocol Oriented Programming in Swift](https://thirsty-burn-48e.notion.site/Swift-Protocol-extension-a272e62a588a4974a71c2d3445ff921a) | __`Swift`__    |
 | 2022-08-02 | [Understanding Swift Performance](https://thirsty-burn-48e.notion.site/Understanding-Swift-Performance-WWDC-2016-b523eb1c6a464ba5a7b9f0f847addc54) | __`Swift`__    |
+| 2022-08-04 | [HTTPS의 개념과 필요 이유](https://thirsty-burn-48e.notion.site/HTTPS-7cd7c057f45542ddae37bb4ca404faef) | __`네트워크`__    |
 
