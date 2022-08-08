@@ -14,4 +14,5 @@
 | 2022-08-04 | [HTTPS의 개념과 필요 이유](https://thirsty-burn-48e.notion.site/HTTPS-7cd7c057f45542ddae37bb4ca404faef) | __`네트워크`__    |
 | 2022-08-06 | [선점형, 비선점형 스케줄링 알고리즘](https://thirsty-burn-48e.notion.site/3424c97b15e3478cb6100272d9d621c2) | __`운영체제`__ |
 | 2022-08-08 | [뷰(View)와 윈도우(Window), 뷰 계층(View hierarchy)](https://thirsty-burn-48e.notion.site/View-Window-View-hierarchy-91c40f73913344449572f76ac7f99522) | __`Swift`__ __`UIKit`__ |
+| 2022-08-09 | [Responder과 Responder Chain](https://thirsty-burn-48e.notion.site/Responder-Responder-Chain-6b86b559429540f3a9f53f46899d9522) | __`Swift`__ __`UIKit`__ |
 
