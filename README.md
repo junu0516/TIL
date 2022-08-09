@@ -16,4 +16,5 @@
 | 2022-08-08 | [뷰(View)와 윈도우(Window), 뷰 계층(View hierarchy)](https://thirsty-burn-48e.notion.site/View-Window-View-hierarchy-91c40f73913344449572f76ac7f99522) | __`Swift`__ __`UIKit`__ |
 | 2022-08-09 | [Responder과 Responder Chain](https://thirsty-burn-48e.notion.site/Responder-Responder-Chain-6b86b559429540f3a9f53f46899d9522) | __`Swift`__ __`UIKit`__ |
 | 2022-08-09 | [AppDelegate, SceneDelegate의 역할](https://thirsty-burn-48e.notion.site/AppDelegate-SceneDelegate-81ca9096943c407892b6e7be687a923a) | __`Swift`__ __`UIKit`__ |
+| 2022-08-10 | [DispatchQueue의 개념과 특징](https://thirsty-burn-48e.notion.site/DispatchQueue-10fae462a3e5451b9ce4764558251863) | __`Swift`__ |
 
