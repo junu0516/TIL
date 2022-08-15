@@ -19,4 +19,5 @@
 | 2022-08-10 | [DispatchQueue의 개념과 특징](https://thirsty-burn-48e.notion.site/DispatchQueue-10fae462a3e5451b9ce4764558251863) | __`Swift`__ |
 | 2022-08-11 | [UIKit에서 레이아웃 그리는 방식](https://thirsty-burn-48e.notion.site/UIKit-f3d43e1ca3db400e99be95b66164ec53) | __`Swift`__ __`UIKit`__ |
 | 2022-08-13 | [Operation, OperationQueue의 정의 및 특징](https://thirsty-burn-48e.notion.site/Operation-OperationQueue-c68753b3946f4e3fad574b1c97a560d3) | __`Swift`__ |
+| 2022-08-15 | [iOS의 Runloop와 View Drawing Cycle](https://thirsty-burn-48e.notion.site/iOS-Runloop-View-Drawing-Cycle-ea041b190f814cdf8ec2384d3ea2091b) | __`Swift`__ __`UIKit`__ |
 
