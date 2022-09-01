@@ -22,4 +22,5 @@
 | 2022-08-15 | [iOS의 Runloop와 View Drawing Cycle](https://thirsty-burn-48e.notion.site/iOS-Runloop-View-Drawing-Cycle-ea041b190f814cdf8ec2384d3ea2091b) | __`Swift`__ __`UIKit`__ |
 | 2022-08-18 | [RxSwift - Observable의 동작 원리](https://thirsty-burn-48e.notion.site/Observable-ad8dbc497a62448a811a93a3842bedc2) | __`Swift`__ __`RxSwift`__ |
 | 2022-08-22 | [TCP/IP 4계층](https://thirsty-burn-48e.notion.site/TCP-IP-4-9ad4c286d9b34b72ab79ce4741a00ecc) | __`네트워크`__ |
+| 2022-09-01 | [Understanding Swift Performance - WWDC 2016](https://thirsty-burn-48e.notion.site/Understanding-Swift-Performance-59ebff2aaa2441dab52417f6df9ba6f4) | __`Swift`__ |
 
