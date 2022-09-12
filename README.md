@@ -24,4 +24,5 @@
 | 2022-08-22 | [TCP/IP 4계층](https://thirsty-burn-48e.notion.site/TCP-IP-4-9ad4c286d9b34b72ab79ce4741a00ecc) | __`네트워크`__ |
 | 2022-09-01 | [Understanding Swift Performance - WWDC 2016](https://thirsty-burn-48e.notion.site/Understanding-Swift-Performance-59ebff2aaa2441dab52417f6df9ba6f4) | __`Swift`__ |
 | 2022-09-10 | [TCP와 UDP의 차이](https://thirsty-burn-48e.notion.site/TCP-UDP-330c331194094a17a66f796007339f33) | __`네트워크`__ |
+| 2022-09-12 | [IP 프로토콜의 특징과 Public & Private IP](https://thirsty-burn-48e.notion.site/IP-Public-Private-IP-d02bf6d1229342a3b48a0ecf4749cdcf) | __`네트워크`__ |
 
