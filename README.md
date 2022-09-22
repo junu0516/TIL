@@ -27,4 +27,5 @@
 | 2022-09-12 | [IP 프로토콜의 특징과 Public & Private IP](https://thirsty-burn-48e.notion.site/IP-Public-Private-IP-d02bf6d1229342a3b48a0ecf4749cdcf) | __`네트워크`__ |
 | 2022-09-19 | [iPhone에서의 네트워크 계층 구조](https://thirsty-burn-48e.notion.site/iPhone-935f1300dce94475b7e12b1b24426aee) | __`네트워크`__ |
 | 2022-09-21 | [Swift로 이분탐색 살펴보기](https://thirsty-burn-48e.notion.site/Swift-8b1e922fee6f47ffaede373c3b1973f1) | __`알고리즘`__ |
+| 2022-09-22 | [Swift로 정렬 알고리즘 살펴보기](https://thirsty-burn-48e.notion.site/Swift-a8d40ec40d7b4869831b646bd4e14c7b) | __`알고리즘`__ |
 
