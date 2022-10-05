@@ -29,4 +29,5 @@
 | 2022-09-21 | [Swift로 이분탐색 살펴보기](https://thirsty-burn-48e.notion.site/Swift-8b1e922fee6f47ffaede373c3b1973f1) | __`알고리즘`__ |
 | 2022-09-22 | [Swift로 정렬 알고리즘 살펴보기](https://thirsty-burn-48e.notion.site/Swift-a8d40ec40d7b4869831b646bd4e14c7b) | __`알고리즘`__ |
 | 2022-09-23 | [Swift로 Heap 구현하기](https://thirsty-burn-48e.notion.site/Swift-Heap-808e98c66c5e434a86baba25b88a50ff) | __`알고리즘`__ |
+| 2022-09-24 | [RxSwift - Observable 구현 코드 살펴보기](https://thirsty-burn-48e.notion.site/Observable-ea4fabfdeec74ed2812fa7a5450f1c4d) | __`Swift`__ __`RxSwift`__ |
 
